@@ -1,2 +1,4 @@
-# throwaway
+# Throwaway Repo
+
 Practice Git
+
