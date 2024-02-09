@@ -40,3 +40,18 @@ local server where you can see a live preview of your work.
 * Vite helps us with front-end tooling. They have many features, including:
   * Instant Server Start: This opens a realistic web server that gives you a live preview while you're working on your projects.
   * Lightning-Fast HMR: This updates the preview as soon as you make changes in your code.
+
+# Reflections
+
+* Before this class, my experience with terminals and other CLI-based programs was with PowerShell (CIS-178 Administrative Scripting) and Windows's Command Prompt. Using Git Bash to make changes to my programs has definitely
+  been a new experience for me, considering my previous classes only required a Blackboard/Brightspace submission and therefore I didn't need to post my work to sites like GitHub.
+  
+* When using Git Bash, it took me some time to learn some of the Git-specific commands and how to utilize them. It probably wasn't until Week 2 or 3 that I felt I had a good understanding of the commands that we've discussed so far.
+  I've enjoyed using `npm install` and `npm run dev` when testing websites as that is **way** more convenient than having to refresh a webpage each time I wanted to view my progress. The only issue that I've experienced with
+  using `npm` commands is errors with the `package.json` file. For example, this repository contains my reflections in MarkDown that I've made since the class started. However, I haven't been able to work on these using Git Bash and
+  Visual Studio Code because this repository does not have a `package.json` file. I don't know if copying one from another repository would fix the issue, but I'm thinking about giving it a shot after writing this.
+  
+* I think Vite is a nice tool to have when doing web development, and I'm looking forward to using it for future GitHub projects. It's nice being able to clone repositories and work on them locally before pushing them back to the
+  origin without all the extra steps that usually come with it.
+  
+* This isn't related to the questions, but I like the idea of using the Office Hours idea for class content. My only issue is that when the Screenshare gets desynced it becomes hard to follow what's happening in the video.
