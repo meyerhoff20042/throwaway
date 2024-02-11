@@ -45,3 +45,13 @@
 * The flexing options CSS gives you are such an important part of styling a website. Allowing your web pages to reorganize themselves to best fit the device's screen is an essential component of creating an enjoyable web experience.
   Being able to do this using Tailwind will let developers describe exactly how the website will look in most circumstances, including what is expanded or shrunk to fit the picture. This can already be done in CSS, but allowing it
   to be done in inline tags leaves a relatively clean CSS file for other uses.
+
+## Applications from the Syntax Episode
+
+* The Syntax episode I listened to talks about a lot of different units used in CSS. Ranging from common ones like rem to some of the more obscure ones out there, they discussed how these different units can be applied in different
+  ways and how the consensus on certain common ones has changed. They also spent a portion of the episode discussing Flexboxes and how they are unitless in usage.
+* When reading through some of the Tailwind Docs, I noticed how many of the classes can rely on a multitude of CSS units. The ones I saw most often were pixels and rems, but I saw many different units of measurement pop up as I
+  skimmed through the examples. It's apparent that many of these CSS classes are relatively flexible when it comes to units used, and it's up to the developer to determine which one is best for their website.
+* Flexboxes in CSS are more relative than exact with their measurements. How items adjust when a flex class is applied depends on the circumstance, and (in my experience) a lot of the time the items may not do what you want them to.
+  I looked through some of the Flexbox pages in the Tailwind Docs, and the examples show that they are different than many other CSS classes. Instead of using common units such as pixels or ems, many of the Flexbox tags use 1s and 0s,
+  percentages, and certain words like "auto" to demonstrate them.
