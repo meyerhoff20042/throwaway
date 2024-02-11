@@ -14,34 +14,34 @@
 
 ## Example Classes
 
-### Columns
+#### Columns
 * I last used columns in web design when we started working with tables in CIS-174 last semester. However, I didn't apply a whole lot of extra styling to them outside of padding and size. Using Tailwind's styling system should
   help me expand my horizons the next time I find myself needing columns on one of my web pages.
 
-### Align Self
+#### Align Self
 * The `align` class is one of my most commonly used ones in CSS. Most times, I used it to line items in the center of the page; however, I had a few instances where blocks of text or other content needed to be on a specific side
   of its div. While I already use this class extensively, applying it to my HTML code can help ensure I am using it correctly. It would also be interesting to see how aligning items within a pseudo-class such as `hover` would look.
 
-### Transforms
+#### Transforms
 * I like the way Tailwind combines a lot of the classes under this category as inline tags. I don't think I've used any transformation classes in my web development class, but Tailwind makes it look pretty easy.
 
-### Scroll Snap
+#### Scroll Snap
 * I haven't used any `scroll-snap` classes yet, but they look very useful in certain situations. The versatility when using scroll snap makes it a great option for any situation where the developer wishes to push the user to
   look at a certain image or control.
 
-### Dark Mode
+#### Dark Mode
 * I have Dark Mode enabled on most of the sites I frequent, so I imagine I'll want to implement it in my projects pretty soon. When I first thought about it, Dark Mode seemed like a feature that would require tons of extra code
   as you would have to modify each element in your page to fit the theme. However, knowing that it can be enabled through a few inline tags using Tailwind it seems a lot more feasible than I once thought.
 
-### Plugins
+#### Plugins
 * I don't have any experience coding with JavaScript yet. However, when skimming through the Plugins page on Tailwind Docs, it looks as though Tailwind and JavaScript can go hand-in-hand in creating a fantastic web experience.
   On its own, Tailwind has a lot of different options for developers; adding plugins with new styles allows for maximum creativity in web design.
 
-### Z-Index
+#### Z-Index
 * When I first saw Z-Index as a page on the sidebar, I thought it was referring to some kind of revolutionary 3D web design. However, reading through the page made it obvious what it was talking about and it still looks appealing.
   While not the three dimensions I had in mind, using the Z-Index when certain elements are sharing space allows for the developer to push the important ones to the front, similar to PowerPoint.
 
-### Flex
+#### Flex
 * The flexing options CSS gives you are such an important part of styling a website. Allowing your web pages to reorganize themselves to best fit the device's screen is an essential component of creating an enjoyable web experience.
   Being able to do this using Tailwind will let developers describe exactly how the website will look in most circumstances, including what is expanded or shrunk to fit the picture. This can already be done in CSS, but allowing it
   to be done in inline tags leaves a relatively clean CSS file for other uses.
