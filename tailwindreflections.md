@@ -55,3 +55,11 @@
 * Flexboxes in CSS are more relative than exact with their measurements. How items adjust when a flex class is applied depends on the circumstance, and (in my experience) a lot of the time the items may not do what you want them to.
   I looked through some of the Flexbox pages in the Tailwind Docs, and the examples show that they are different than many other CSS classes. Instead of using common units such as pixels or ems, many of the Flexbox tags use 1s and 0s,
   percentages, and certain words like "auto" to demonstrate them.
+
+## The Underlying CSS
+
+* When I write my CSS files, I usually begin working on them after I've written most of my HTML code. I'm not the best at CSS so I like to see how the web page looks after I've added something to see if it creates the effect I want.
+  That being said, many of the inline tags in the Tailwind Docs make it clear what is happening within the tag, even if it's hidden behind abbreviations and other keywords. While I've still got some work to do learning the keywords in
+  CSS and with inline tags, I think Tailwind does a good job letting div classes be customizable while also being concise, even if it looks a bit messy.
+* Tailwind seems like a very useful application for web developers and I plan on using it for my future projects. I'm still learning about a lot of CSS features so I'm hoping Tailwind helps me gain a better understanding of how they affect
+  your HTML code as it's written right alongside it. I can definitely see myself refactoring some of my messier CSS classes and reapplying them within my HTML code using inline tags, leaving me a much cleaner state in the CSS file.
