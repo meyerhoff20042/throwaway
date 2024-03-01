@@ -1,4 +1,4 @@
-# Throwaway Repo
+# Reflections Repo
 
 Practice Git
 
