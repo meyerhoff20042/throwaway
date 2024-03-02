@@ -45,3 +45,9 @@
 * The keyword `const` is commonly used when declaring primitive data types. In these cases, "const" is short for "constant"; the variable's value cannot be altered once initially assigned.
   * When dealing with other variable types, `const` serves as a constant _reference_ as opposed to a constant _value_. 
 * The keyword `let` allows for the values in variables to change.
+
+# Reflections
+* I see many similarities between JavaScript and other object-oriented languages like C#. Some of the major differences have been the variable keywords (using `const` and `let` instead of `int`, `string`, and `bool`) and how strict the languages are
+  (vanilla JavaScript is pretty flexible while C# has a more rigid structure). I'm looking forward to seeing how JavaScript is used in a web development environment and how its logic interacts with HTML and CSS, which are structured **very** differently.
+* I think this will be the most exciting part of CIS-177 for me. Going back to my previous point, JavaScript strongly resembles languages I've used in the past so I'm hoping it will come pretty easy for me. I've done a little research on JavaScript
+  applications and the language is everywhere in the development sphere.
