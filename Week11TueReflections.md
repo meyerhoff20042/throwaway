@@ -32,3 +32,11 @@
 #### Closure
 * Local bindings are recreated each time a function is called. This allows the program to reference its value multiple times without issue, a feature known as _closure_.
 * This feature can be used to create functions that can repeat an arbitrary number of times without any logic errors.
+
+## Reflections
+* I've used some of these concepts in my work in C#. I can think of a recent example where I needed to access a certain text file based on a variable name, and I created a method that, depending on the string passed to it,
+  could find the file and assign it to a FileInfo variable. However, I needed to do this multiple times in another method that built a list of phones for an audit program, and this required a special string variable that
+  was not included in the original GetFile method. I ended up creating a local GetFile method inside the method that needed a special variable and used it multiple times.
+* I've never used the arrow notation when creating a function, but it'd be interesting to see how it differs from the `function` keyword.
+* I think having flexibility with parameters is a good thing for creating flexible functions (especially more complex ones). I've seen a couple of instances where I felt a certain method would be handy but I did not have
+  all the arguments for it and needed to create variables specifically for that purpose. It would be easier to allow flexibility in the function's code and produce a wider range of results.
