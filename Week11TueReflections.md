@@ -40,3 +40,7 @@
 * I've never used the arrow notation when creating a function, but it'd be interesting to see how it differs from the `function` keyword.
 * I think having flexibility with parameters is a good thing for creating flexible functions (especially more complex ones). I've seen a couple of instances where I felt a certain method would be handy but I did not have
   all the arguments for it and needed to create variables specifically for that purpose. It would be easier to allow flexibility in the function's code and produce a wider range of results.
+
+## Thoughts on the `hummus` function
+* The `hummus` function presented in the Homework Due Tuesday section is an interesting showcase of JavaScript's nested scope capabilities. Within the function, it creates another one called `ingredient` and calls it six times.
+* I think it's a decent way to show how nested scope and local bindings interact. But I think having two adjacent functions that both use a local variable with the same name might've demonstrated this better.
