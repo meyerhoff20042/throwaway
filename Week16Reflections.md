@@ -4,7 +4,7 @@
   Email text box. For whatever reason, when the email didn't fit the criteria specified by the Validator class, it would trigger the error on the name text box instead of
   the email. I tried many different things to fix this, including:
   * Using `nextElementSibling` instead of `parentNode`
-  * Moving the function to `main.js` instead of `utils.js`
+  * Moving the hideErrors and renderErrors functions to `main.js` instead of `utils.js`
   * Addressing the email text box specifically in the `hideError` and `renderError` methods
   * And many other far-fetched ideas
 * What ended up fixing it for me was adding embedded JavaScript functions inside the HTML file that would validate the form before submitting it. I wanted to do it on `main.js`, but for whatever reason,
